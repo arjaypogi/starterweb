@@ -9,3 +9,6 @@ THIS IS TO DEMONSTRATE GIT OPERATIONS
 To show the git operations of a user activity
 
 ## DEPLOYMENT
+
+### COPYRIGHT
+copyright 1999
