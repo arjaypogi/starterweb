@@ -11,4 +11,4 @@ To show the git operations of a user activity
 ## DEPLOYMENT
 
 ### COPYRIGHT
-copyright 1999
+copyright 1999 . All rights reversed
