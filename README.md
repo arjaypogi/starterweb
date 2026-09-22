@@ -12,4 +12,4 @@ To show the git operations of a user activity
 AWS
 
 ### COPYRIGHT
-copyright 1999 . All rights reversed
+copyright 1999 . All rights reversed thank you
